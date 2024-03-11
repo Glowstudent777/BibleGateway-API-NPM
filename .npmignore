@@ -1,0 +1,16 @@
+# Script file :)
+script.js
+old_package.json
+old_node_modules
+
+# src
+src
+deprecated
+
+# Config Stuff
+tsconfig.json
+tslint.json
+.prettierrc
+
+# Builds
+*tgz
