@@ -16,8 +16,7 @@
     "@babel/core": "^7.20.2",
     "@babel/preset-env": "^7.20.2",
     "@types/node": "^18.11.9",
-    "typescript": "^4.9.3",
-    "@types/bun": "latest"
+    "typescript": "^4.9.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
